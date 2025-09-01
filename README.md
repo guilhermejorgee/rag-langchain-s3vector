@@ -1,6 +1,6 @@
 # RAG Com S3Vector e Langchain
 
-Este projeto realiza indexação e recuperação de informações de um arquivo PDF utilizando LangChain, ChromaDB e OpenAI.
+Este projeto realiza indexação e recuperação de informações de um arquivo PDF utilizando LangChain, S3 Vector e OpenAI.
 
 ## Estrutura
 - `index.py`: Script principal para indexação e consulta ao PDF.
