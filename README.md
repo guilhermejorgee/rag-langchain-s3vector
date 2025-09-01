@@ -1,4 +1,4 @@
-# RAG Prático - Lean Startup
+# RAG Com S3Vector e Langchain
 
 Este projeto realiza indexação e recuperação de informações de um arquivo PDF utilizando LangChain, ChromaDB e OpenAI.
 
