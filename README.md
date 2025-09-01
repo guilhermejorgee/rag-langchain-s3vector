@@ -43,13 +43,7 @@ python index.py
 ```
 
 ## Possíveis problemas
-- **Permissão negada ao criar diretório do ChromaDB:**
-  Execute:
-  ```bash
-  mkdir -p content/chroma_langchain_db
-  chmod -R 777 content/chroma_langchain_db
-  ```
-- **Erro de chave da OpenAI:**
+- **Erro de chave da OpenAI/AWS:**
   Verifique se a chave está correta e ativa.
 
 ## Referências
