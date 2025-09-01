@@ -1,0 +1,6 @@
+langchain 
+langchain-core 
+langchain-community 
+langchain-openai 
+pdfplumber
+langchain_aws
